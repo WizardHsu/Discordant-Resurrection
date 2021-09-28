@@ -20,6 +20,9 @@ Import the 13 pithes: C, C#, D, D# ... C separately and then read the pitchDesig
 Sources: 
 
 This game was built with [NEST](NEST.md).
+
 The pitch sound is created by BeepBox.
+
 The coffin opened sound is from: https://elements.envato.com/metal-coffin-open-lid-C8QKLP4?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_search_no_results
+
 The background music is from: https://www.storyblocks.com/audio/stock/enchanted-forest-dark-spooky-drone-ambience-hl3mn62iphk0wxx9cp.html (preview version)
